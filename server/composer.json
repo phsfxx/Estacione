@@ -1,0 +1,17 @@
+{
+    "name": "phsfxx/server",
+    "autoload": {
+        "psr-4": {
+            "Phsfxx\\Server\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "phsfxx",
+            "email": "phsilveiraphsf@gmail.com"
+        }
+    ],
+    "require": {
+        "slim/slim": "^4.0"
+    }
+}
